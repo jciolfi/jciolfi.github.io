@@ -28,13 +28,13 @@ Some noteworthy projects that I enjoyed the most while working on them.
 *Tools & Technologies:* C
 
 ## GameChanger Baseball Statistics Scraper
-*Source Code:* [jciolfi/clubbaseball](https://github.com/jciolfi/clubbaseball)
+*Source Code:* [jciolfi/gc-stats-scraper](https://github.com/jciolfi/gc-stats-scraper)
 
 *Description:* Partially automate statistics uploading from a scorekeeping app, GameChanger, to the league, the NCBA. Export a spreadsheet in the NCBA's expected format from the disparate tables stored in GameChanger.
 
 *Tools & Technologies:* Python, Networks, Postman
 
-## End-to-end Load Testing for Chewy.com
+## End-to-end Performance Testing for Chewy.com
 *Source Code:* N/A, private to Chewy.com.
 
 *Description:* Simulate peak traffic for Black Friday and monitor services' health and availability. Exercise prescription platform APIs by simulating the complete order flow for medicine and vet diet items requiring prescriptions.
@@ -47,46 +47,46 @@ Some noteworthy projects that I enjoyed the most while working on them.
 More projects that I have completed.
 
 ## TCP/IP/Ethernet Protocol Re-Implementation
-*Description:*
+*Source Code:* [jciolfi/raw-sockets](https://github.com/jciolfi/raw-sockets/settings)
 
-*Tools & Technologies:*
+*Description:* Bypass the operating system network stack to implement functionality of TCP, IP, and Ethernet protocols. Downloads a file using re-implemented low-level network protocols.
 
-*Demo:*
+*Tools & Technologies:* Python, Wireshark
 
 ## ShapeUp Android App
-*Description:*
+*Source Code:* [jciolfi/shape-up](https://github.com/jciolfi/shape-up)
 
-*Tools & Technologies:*
+*Description:* Leverage social pressure to help users unmotivated to work out form a consistent workout routine. Act as an accountability buddy by allowing users to post, chat, form groups, and make challenges in a social-media-esque style.
 
-*Demo:*
+*Tools & Technologies:* Java, Cloud Firestore
 
 ## Program Managed Heap
-*Description:*
+*Source Code:* [jciolfi/pm-heap](https://github.com/jciolfi/pm-heap)
 
-*Tools & Technologies:*
+*Description:* Implement low-level heap structure in memory via a statically allocated region in BSS memory. Uses paged heap and demand paging strategy to swap least recently used pages to disk.
 
-*Demo:*
+*Tools & Technologies:* C
 
 ## SimpleRecipes
-*Description:*
+*Source Code:* [jciolfi/simple-recipes](https://github.com/jciolfi/simple-recipes.git)
 
-*Tools & Technologies:*
+*Description:* Practice full stack development by creating entire recipes hosting single page application (SPA). The front end is still in progress!
 
-*Demo:* Work in progress!
+*Tools & Technologies:* MySQL, TypeScript, Postman, React
 
 ## Brain Hemorrhage Classifier
-*Description:*
+*Source Code:* [jciolfi/CT-classification](https://github.com/jciolfi/CT-classification)
 
-*Tools & Technologies:*
+*Description:* Compare accuracy of different machine learning models on classifying brain hemorrhages. Primarily used a convolutional neural network (CNNs) and varied loss/optimization functions, activation functions, and arrangements of layers.
 
-*Demo:*
+*Tools & Technologies:* Python, scikit-learn, TensorFlow
 
-## Custom Rubix Cube in OpenGL
-*Description:*
+## Custom Rubiks Cube in OpenGL
+*Source Code* [jciolfi/opengl-rubiks-cube](https://github.com/jciolfi/opengl-rubiks-cube.git)
 
-*Tools & Technologies:*
+*Description:* Experiment with graphics and rendering by creating a rubix cube custom rendered with OpenGL. Provides animation and interactivity.
 
-*Demo:*
+*Tools & Technologies:* C++, OpenGL
 
 ## Covey.Town OAuth Authentication
 *Description:*

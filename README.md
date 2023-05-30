@@ -28,7 +28,7 @@ Some noteworthy projects that I enjoyed the most while working on them.
 >**Tools & Technologies:** C
 
 ## GameChanger Baseball Statistics Scraper
->**Source Code:** [jciolfi/gc-stats-scraper](https://github.com/jciolfi/gc-stats-scraper)>
+>**Source Code:** [jciolfi/gc-stats-scraper](https://github.com/jciolfi/gc-stats-scraper)
 >
 >**Description:** Partially automate statistics uploading from a scorekeeping app, GameChanger, to the league, the NCBA. Export a spreadsheet in the NCBA's expected format from the disparate tables stored in GameChanger.
 >
@@ -82,7 +82,7 @@ More projects that I have completed.
 >**Tools & Technologies:** Python, scikit-learn, TensorFlow
 
 ## Custom Rubiks Cube in OpenGL
->**Source Code** [jciolfi/opengl-rubiks-cube](https://github.com/jciolfi/opengl-rubiks-cube.git)>
+>**Source Code** [jciolfi/opengl-rubiks-cube](https://github.com/jciolfi/opengl-rubiks-cube)
 >
 >**Description:** Experiment with graphics and rendering by creating a rubix cube custom rendered with OpenGL. Provides animation and interactivity.
 >

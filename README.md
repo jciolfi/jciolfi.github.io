@@ -7,13 +7,13 @@ Hi, I'm John. I attended Northeastern University to get a BS in Computer Science
 Some noteworthy projects that I enjoyed the most while working on them.
 
 >## Time is Money
->>*Source Code*: [jciolfi/time-is-money](https://github.com/jciolfi/time-is-money)
->>
->>*Description:* If a user can put a value on their time, they can choose the best mode of transportation considering the price and time to their destination. Let the app choose the most time and money efficient method of travel for you out of walking, uber, lyft, public transport, and city biking!
->>
->>*Tools & Technologies:* TypeScript, Python, MongoDB, Uber/Lyft/MBTA/Google Maps APIs.
+>**Source Code**: [jciolfi/time-is-money](https://github.com/jciolfi/time-is-money)
+>
+>**Description:** If a user can put a value on their time, they can choose the best mode of transportation considering the price and time to their destination. Let the app choose the most time and money efficient method of travel for you out of walking, uber, lyft, public transport, and city biking!
+>
+>**Tools & Technologies:** TypeScript, Python, MongoDB, Uber/Lyft/MBTA/Google Maps APIs.
 
->## Custom Content Delivery Network
+## Custom Content Delivery Network
 *Source Code*: [jciolfi/CDN](https://github.com/jciolfi/CDN)
 
 *Description:* Created a small-scale content delivery network such that when the user requests content, they are directed to a replica server that provides them lower latency based on IP address geolocation.

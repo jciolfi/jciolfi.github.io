@@ -1,13 +1,10 @@
-<section>
-
 # About Me
 Hi, I'm John. I attended Northeastern University to get a BS in Computer Science & Mathematics, and I have continued my studies to pursue a MS in Computer Science. Some areas of focus include backend API development, privacy & security, and computer networks.
 
-</section>
-<section>
+---
 
 # Highlighted Projects
-Some noteworthy projects that I enjoyed the most.
+Some noteworthy projects that I enjoyed the most while working on them.
 
 ## Time is Money
 *Source Code*: [jciolfi/time-is-money](https://github.com/jciolfi/time-is-money)
@@ -44,8 +41,7 @@ Some noteworthy projects that I enjoyed the most.
 
 *Tools & Technologies:* Scala, Gatling Frontline, Python, Postman, Java
 
-</section>
-<section>
+--- 
 
 # Additional Projects
 More projects that I have completed.
@@ -119,5 +115,3 @@ More projects that I have completed.
 *Tools & Technologies:*
 
 *Demo:*
-
-</section>

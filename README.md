@@ -1,43 +1,51 @@
+<section>
+
 # About Me
 Hi, I'm John. I attended Northeastern University to get a BS in Computer Science & Mathematics, and I have continued my studies to pursue a MS in Computer Science. Some areas of focus include backend API development, privacy & security, and computer networks.
+
+</section>
+<section>
 
 # Highlighted Projects
 Some noteworthy projects that I enjoyed the most.
 
-## Method of Travel Selector
-*Description:*
+## Time is Money
+*Source Code*: [jciolfi/time-is-money](https://github.com/jciolfi/time-is-money)
 
-*Tools & Technologies:*
+*Description:* If a user can put a value on their time, they can choose the best mode of transportation considering the price and time to their destination. Let the app choose the most time and money efficient method of travel for you out of walking, uber, lyft, public transport, and city biking!
 
-*Demo:*
+*Tools & Technologies:* TypeScript, Python, MongoDB, Uber/Lyft/MBTA/Google Maps APIs.
 
 ## Custom Content Delivery Network
-*Description:*
+*Source Code*: [jciolfi/CDN](https://github.com/jciolfi/CDN)
 
-*Tools & Technologies:*
+*Description:* Created a small-scale content delivery network such that when the user requests content, they are directed to a replica server that provides them lower latency based on IP address geolocation.
 
-*Demo:*
+*Tools & Technologies:* Python and Bash Scripting
 
 ## Network File System
-*Description:*
+*Source Code:* [jciolfi/NFS](https://github.com/jciolfi/NFS)
 
-*Tools & Technologies:*
+*Description:* Mimic cloud storage for performing CRUD operations on files from a client machine to a host machine.
 
-*Demo:*
+*Tools & Technologies:* C
 
 ## GameChanger Baseball Statistics Scraper
-*Description:*
+*Source Code:* [jciolfi/clubbaseball](https://github.com/jciolfi/clubbaseball)
 
-*Tools & Technologies:*
+*Description:* Partially automate statistics uploading from a scorekeeping app, GameChanger, to the league, the NCBA. Export a spreadsheet in the NCBA's expected format from the disparate tables stored in GameChanger.
 
-*Demo:*
+*Tools & Technologies:* Python, Networks, Postman
 
-## E2E Load Testing for Chewy.com
-*Description:*
+## End-to-end Load Testing for Chewy.com
+*Source Code:* N/A, private to Chewy.com.
 
-*Tools & Technologies:*
+*Description:* Simulate peak traffic for Black Friday and monitor services' health and availability. Exercise prescription platform APIs by simulating the complete order flow for medicine and vet diet items requiring prescriptions.
 
-*Demo:*
+*Tools & Technologies:* Scala, Gatling Frontline, Python, Postman, Java
+
+</section>
+<section>
 
 # Additional Projects
 More projects that I have completed.
@@ -111,3 +119,5 @@ More projects that I have completed.
 *Tools & Technologies:*
 
 *Demo:*
+
+</section>

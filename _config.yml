@@ -1,6 +1,18 @@
 title: John Ciolfi
+
+# Site settings
+description: "About John Ciolfi"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://localhost:3000" # the base hostname & protocol for your site
+
+# User settings
+username: John Ciolfi
+user_description: Graduate Student at Northeastern University
+user_title: Software Engineer
 email: ciolfi.j@northeastern.edu
-markdown: kramdown
+twitter_username: twitter
+github_username:  jciolfi
+gplus_username:  na
 
 # https://pages.github.com/themes/
 remote_theme: nrandecker/particle # jciolfi/minimal-jciolfi

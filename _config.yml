@@ -3,7 +3,7 @@ title: John Ciolfi
 # Site settings
 description: "About John Ciolfi"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://localhost:3000" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 
 # User settings
 username: John Ciolfi
@@ -15,6 +15,6 @@ github_username:  jciolfi
 gplus_username:  na
 
 # https://pages.github.com/themes/
-remote_theme: nrandecker/particle # jciolfi/minimal-jciolfi
+remote_theme: jciolfi/particle-jciolfi # jciolfi/minimal-jciolfi
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one

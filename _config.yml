@@ -1,4 +1,8 @@
+title: John Ciolfi
+email: ciolfi.j@northeastern.edu
+markdown: kramdown
+
 # https://pages.github.com/themes/
-remote_theme: jciolfi/minimal-jciolfi
+remote_theme: nrandecker/particle # jciolfi/minimal-jciolfi
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one

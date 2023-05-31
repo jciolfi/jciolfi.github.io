@@ -1,5 +1,5 @@
 # About Me
-Hi, I'm John. I attended Northeastern University to get a BS in Computer Science & Mathematics, and I have continued my studies to pursue a MS in Computer Science. Some areas of focus include backend API development, privacy & security, and computer networks.
+Hi, I'm John. I attended Northeastern University to get a BS in Computer Science & Mathematics, and I have continued my studies at Northeastern University to pursue a MS in Computer Science. Some areas of focus include backend API development, privacy & security, and computer networks.
 
 <br>
 
@@ -10,7 +10,7 @@ Some noteworthy projects that I enjoyed the most while working on them.
 
 <br>
 
-## Time is Money
+## Time is Money (Work in Progress)
 >**Source Code:** [jciolfi/time-is-money](https://github.com/jciolfi/time-is-money)
 >
 >**Description:** If a user can put a value on their time, they can choose the best mode of transportation considering the price and time to their destination. Let the app choose the most time and money efficient method of travel for you out of walking, uber, lyft, public transport, and city biking!
@@ -47,7 +47,7 @@ Some noteworthy projects that I enjoyed the most while working on them.
 <br>
 
 ## End-to-end Performance Testing for Chewy.com
->**Source Code:** N/A, private to Chewy.com.
+>**Source Code:** N/A, private to [Chewy.com](https://chewy.com)
 >
 >**Description:** Simulate peak traffic for Black Friday and monitor services' health and availability. Exercise prescription platform APIs by simulating the complete order flow for medicine and vet diet items requiring prescriptions.
 >
@@ -130,12 +130,12 @@ More projects that I have completed.
 >
 >**Description:** Organize course modules for artificial intelligence course at Northeastern. Focuses on useful demos and examples, including computer vision, machine learning, classification, perceptrons, and neural networks.
 >
->**Tools & Technologies:**
+>**Tools & Technologies:** JavaScript, Tailwind, HTML
 
 <br>
 
 ## Product Family Matching for Chewy.com
->**Source Code:** N/A, private to [Chewy.com](https://chewy.com)
+>**Source Code:** N/A, private to [Chewy.com](https://chewy.com).
 >
 >**Description:** Implement a high-visibility endpoint on the prescription platform API to find all items in a product family for a given product line. Heavily utilize asynchronous code to support scalability and performance.
 >
@@ -144,7 +144,7 @@ More projects that I have completed.
 <br>
 
 ## PayPal Payment Flow for Blueport Commerce
->**Source Code:** N/A, private to [Blueport Commerce](https://blueport.com)
+>**Source Code:** N/A, private to [Blueport Commerce](https://blueport.com).
 >
 >**Description:** Architect backend payment flow in payment microservice for retailers supporting PayPal via the PayPal API. Provide full payment functionality, including but not limited to authorizing, voiding, and capturing payments.
 >

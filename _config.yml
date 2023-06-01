@@ -9,10 +9,7 @@ url: "" # the base hostname & protocol for your site
 username: John Ciolfi
 user_description: Graduate Student at Northeastern University
 user_title: Software Engineer
-email: ciolfi.j@northeastern.edu
-twitter_username: twitter
-github_username:  jciolfi
-gplus_username:  na
+email: ciolfi.j [at] northeastern.edu
 
 # https://pages.github.com/themes/
 remote_theme: jciolfi/particle-jciolfi # jciolfi/minimal-jciolfi

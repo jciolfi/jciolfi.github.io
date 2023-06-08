@@ -2,7 +2,9 @@
 
 Welcome to my website. I've used this to showcase some of my projects. Please check it out live [here](https://jciolfi.github.io). Please feel free to reach me at ciolfi.j \[at\] northeastern.edu.
 
-![](homepage.png)
+<p align="center">
+  <img src="homepage.gif" alt="Homepage">
+</p>
 
 # Credits
 

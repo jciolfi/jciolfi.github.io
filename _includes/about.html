@@ -1,0 +1,70 @@
+ <div class="user-details">
+  <h1> About Me </h1>
+  <p id="user-desc"></p>
+</div>
+<div id="about-details" class="user">
+    <!-- <div class="tech">
+      <h2>Languages</h2>
+      <i class="devicon-java-plain-wordmark colored"></i>
+      <i class="devicon-python-plain-wordmark colored"></i>
+      <i class="devicon-c-line-wordmark colored"></i>
+      <p>My most used languages as of recent are Java, Python, and C. I have experience with C#, SQL, TypeScript, JavaScript, React, HTML, CSS, and Scala.</p>
+    </div>
+    <div class="tech">
+      <h2>Back-End</h2>
+      <i class="devicon-mongodb-plain-wordmark colored"></i>
+      <i class="devicon-postgresql-plain-wordmark colored"></i>
+      <i class="devicon-nodejs-plain-wordmark colored"></i>
+      <p>I have worked on many back-end systems and APIs written in TypeScript, C#, Java, and Python. I am comfortable with client integrations and server-side development.</p>
+    </div>
+    <div class="tech">
+      <h2>Security</h2>
+      <i class="devicon-linux-plain colored"></i>
+      <i class="devicon-ssh-plain-wordmark colored"></i>
+      <i class="devicon-docker-plain-wordmark colored"></i>
+      <p>My graduate studies have been centered around computer networks and cybersecurity. Some studies include packet inspection, exploits, and vulnerabilities.</p>
+    </div> -->
+</div>
+
+<script>
+    fetch('/assets/data/about.json')
+    .then(response => {
+        if (!response.ok) {
+            throw new Error("Could not find about.json. Unable to list user details");
+        }
+        return response.json();
+    })
+    .then(data => {
+        const user_description = document.getElementById('user-desc');
+        user_description.textContent = data.desc;
+
+        const section = document.getElementById('about-details');
+        const details = data.user;
+
+        details.forEach(item => {
+            const itemContainer = document.createElement('div');
+            itemContainer.className = 'tech';
+
+            const title = document.createElement('h2');
+            title.textContent = item.title;
+            itemContainer.appendChild(title);
+
+            const icons = item.icons;
+            icons.forEach(icon => {
+                const iconView = document.createElement('i');
+                iconView.className = icon;
+                itemContainer.appendChild(iconView);
+            });
+
+            const description = document.createElement('p');
+            description.textContent = item.desc;
+            itemContainer.appendChild(description);
+
+            section.appendChild(itemContainer);
+        });
+    })
+    .catch(error => {
+        console.error('Error: ', error);
+    });
+</script>
+

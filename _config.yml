@@ -1,21 +1,16 @@
-title: John Ciolfi
-
 # Site settings
-description: "About John Ciolfi"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+title: John Ciolfi
+description: About John Ciolfi
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: John Ciolfi
-user_description: Hi, I'm John. I attended Northeastern University to get a BS in Computer Science & Mathematics, and I have continued my studies at Northeastern University to pursue a MS in Computer Science. Some areas of focus include backend API development, privacy & security, and computer networks.
 user_title: Software Engineer
 email: ciolfi.j [at] northeastern.edu
 
-# json paths
-projects_json: https://jciolfi.github.io/projects.json
-about_json: https://jciolfi.github.io/about.json
+# Google-analytics
+google-analytics:
+  id: ""
 
-# https://pages.github.com/themes/
-remote_theme: jciolfi/particle-jciolfi # jciolfi/minimal-jciolfi
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+exclude: ['package.json', 'src' , 'node_modules']

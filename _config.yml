@@ -11,6 +11,10 @@ user_description: Hi, I'm John. I attended Northeastern University to get a BS i
 user_title: Software Engineer
 email: ciolfi.j [at] northeastern.edu
 
+# json paths
+projects_json: https://jciolfi.github.io/projects.json
+about_json: https://jciolfi.github.io/about.json
+
 # https://pages.github.com/themes/
 remote_theme: jciolfi/particle-jciolfi # jciolfi/minimal-jciolfi
 plugins:
